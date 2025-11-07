@@ -156,17 +156,6 @@ pnpm typecheck      # TS types
   /store
   /styles
   /utils
-```
-
----
-
-## 🗺️ Sikkim-Specific Data (if applicable)
-
-* Administrative boundaries: `[source/licensing]`
-* Emergency contacts: `[verified sources]`
-* Tourism POIs + seasonal advisories: `[source]`
-* Disaster-prone zones / road closures (if included): `[source]`
-
 ---
 
 ## 📚 API (Sample)
