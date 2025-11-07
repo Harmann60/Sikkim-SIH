@@ -1,6 +1,5 @@
-# SIH 2025 – Sikkim [Project Name]
+# SIH 2025 – Sikkim [Monastry 360]
 
-> A modern, accessible web portal solving **[briefly state your Sikkim-focused problem statement]** for Smart India Hackathon 2025.
 
 [![Built with React](https://img.shields.io/badge/React-18-61DAFB)](#) [![Vite](https://img.shields.io/badge/Vite-5-646CFF)](#) [![TailwindCSS](https://img.shields.io/badge/Tailwind-3-38B2AC)](#) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](#license)
 
